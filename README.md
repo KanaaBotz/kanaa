@@ -3,4 +3,4 @@ Heroku buildpack that installs webp binaries (cwebp, dwebp) into a dyno slug.
 
 Should allow imagemagick to encode/decode webp images.
 
-Based off of /storage/emulated/0/Download/unsub gw doain error/
+Based off of https://github.com/reza838/v17.git cd v7.
